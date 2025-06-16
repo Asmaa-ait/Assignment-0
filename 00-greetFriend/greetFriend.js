@@ -1,5 +1,5 @@
 function greetFriend(name) {
-  // Insert code here;
+ return `Hello, ${name}! How are you today?`;
 }
 
 // Do not edit this line;
